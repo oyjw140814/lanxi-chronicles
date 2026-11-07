@@ -1,0 +1,658 @@
+{
+	"barracks0/root/Foundation": [
+		"res://assets/art/barracks0_root_Foundation_lod0.res",
+		"res://assets/art/barracks0_root_Foundation_lod1.res"
+	],
+	"barracks0/root/Roof": [
+		"res://assets/art/barracks0_root_Roof_lod0.res",
+		"res://assets/art/barracks0_root_Roof_lod1.res"
+	],
+	"barracks0/root/Walls": [
+		"res://assets/art/barracks0_root_Walls_lod0.res",
+		"res://assets/art/barracks0_root_Walls_lod1.res"
+	],
+	"barracks1/root/Foundation": [
+		"res://assets/art/barracks1_root_Foundation_lod0.res",
+		"res://assets/art/barracks1_root_Foundation_lod1.res"
+	],
+	"barracks1/root/Roof": [
+		"res://assets/art/barracks1_root_Roof_lod0.res",
+		"res://assets/art/barracks1_root_Roof_lod1.res"
+	],
+	"barracks1/root/Walls": [
+		"res://assets/art/barracks1_root_Walls_lod0.res",
+		"res://assets/art/barracks1_root_Walls_lod1.res"
+	],
+	"breaker0/root/Body": [
+		"res://assets/art/breaker0_root_Body_lod0.res",
+		"res://assets/art/breaker0_root_Body_lod1.res"
+	],
+	"breaker0/root/Body/BeastLeg0": [
+		"res://assets/art/breaker0_root_Body_BeastLeg0_lod0.res",
+		"res://assets/art/breaker0_root_Body_BeastLeg0_lod1.res"
+	],
+	"breaker0/root/Body/BeastLeg1": [
+		"res://assets/art/breaker0_root_Body_BeastLeg1_lod0.res",
+		"res://assets/art/breaker0_root_Body_BeastLeg1_lod1.res"
+	],
+	"breaker0/root/Body/BeastLeg2": [
+		"res://assets/art/breaker0_root_Body_BeastLeg2_lod0.res",
+		"res://assets/art/breaker0_root_Body_BeastLeg2_lod1.res"
+	],
+	"breaker0/root/Body/BeastLeg3": [
+		"res://assets/art/breaker0_root_Body_BeastLeg3_lod0.res",
+		"res://assets/art/breaker0_root_Body_BeastLeg3_lod1.res"
+	],
+	"breaker0/root/Body/Ram": [
+		"res://assets/art/breaker0_root_Body_Ram_lod0.res",
+		"res://assets/art/breaker0_root_Body_Ram_lod1.res"
+	],
+	"breaker1/root/Body": [
+		"res://assets/art/breaker1_root_Body_lod0.res",
+		"res://assets/art/breaker1_root_Body_lod1.res"
+	],
+	"breaker1/root/Body/BeastLeg0": [
+		"res://assets/art/breaker1_root_Body_BeastLeg0_lod0.res",
+		"res://assets/art/breaker1_root_Body_BeastLeg0_lod1.res"
+	],
+	"breaker1/root/Body/BeastLeg1": [
+		"res://assets/art/breaker1_root_Body_BeastLeg1_lod0.res",
+		"res://assets/art/breaker1_root_Body_BeastLeg1_lod1.res"
+	],
+	"breaker1/root/Body/BeastLeg2": [
+		"res://assets/art/breaker1_root_Body_BeastLeg2_lod0.res",
+		"res://assets/art/breaker1_root_Body_BeastLeg2_lod1.res"
+	],
+	"breaker1/root/Body/BeastLeg3": [
+		"res://assets/art/breaker1_root_Body_BeastLeg3_lod0.res",
+		"res://assets/art/breaker1_root_Body_BeastLeg3_lod1.res"
+	],
+	"breaker1/root/Body/Ram": [
+		"res://assets/art/breaker1_root_Body_Ram_lod0.res",
+		"res://assets/art/breaker1_root_Body_Ram_lod1.res"
+	],
+	"guard0/root/Body": [
+		"res://assets/art/guard0_root_Body_lod0.res",
+		"res://assets/art/guard0_root_Body_lod1.res"
+	],
+	"guard0/root/Body/ArmL": [
+		"res://assets/art/guard0_root_Body_ArmL_lod0.res",
+		"res://assets/art/guard0_root_Body_ArmL_lod1.res"
+	],
+	"guard0/root/Body/ArmL/Elbow": [
+		"res://assets/art/guard0_root_Body_ArmL_Elbow_lod0.res",
+		"res://assets/art/guard0_root_Body_ArmL_Elbow_lod1.res"
+	],
+	"guard0/root/Body/ArmR": [
+		"res://assets/art/guard0_root_Body_ArmR_lod0.res",
+		"res://assets/art/guard0_root_Body_ArmR_lod1.res"
+	],
+	"guard0/root/Body/ArmR/Elbow": [
+		"res://assets/art/guard0_root_Body_ArmR_Elbow_lod0.res",
+		"res://assets/art/guard0_root_Body_ArmR_Elbow_lod1.res"
+	],
+	"guard0/root/Body/ArmR/Elbow/Weapon": [
+		"res://assets/art/guard0_root_Body_ArmR_Elbow_Weapon_lod0.res",
+		"res://assets/art/guard0_root_Body_ArmR_Elbow_Weapon_lod1.res"
+	],
+	"guard0/root/Body/Head": [
+		"res://assets/art/guard0_root_Body_Head_lod0.res",
+		"res://assets/art/guard0_root_Body_Head_lod1.res"
+	],
+	"guard0/root/Body/LegL": [
+		"res://assets/art/guard0_root_Body_LegL_lod0.res",
+		"res://assets/art/guard0_root_Body_LegL_lod1.res"
+	],
+	"guard0/root/Body/LegL/Shin": [
+		"res://assets/art/guard0_root_Body_LegL_Shin_lod0.res",
+		"res://assets/art/guard0_root_Body_LegL_Shin_lod1.res"
+	],
+	"guard0/root/Body/LegR": [
+		"res://assets/art/guard0_root_Body_LegR_lod0.res",
+		"res://assets/art/guard0_root_Body_LegR_lod1.res"
+	],
+	"guard0/root/Body/LegR/Shin": [
+		"res://assets/art/guard0_root_Body_LegR_Shin_lod0.res",
+		"res://assets/art/guard0_root_Body_LegR_Shin_lod1.res"
+	],
+	"guard1/root/Body": [
+		"res://assets/art/guard1_root_Body_lod0.res",
+		"res://assets/art/guard1_root_Body_lod1.res"
+	],
+	"guard1/root/Body/ArmL": [
+		"res://assets/art/guard1_root_Body_ArmL_lod0.res",
+		"res://assets/art/guard1_root_Body_ArmL_lod1.res"
+	],
+	"guard1/root/Body/ArmL/Elbow": [
+		"res://assets/art/guard1_root_Body_ArmL_Elbow_lod0.res",
+		"res://assets/art/guard1_root_Body_ArmL_Elbow_lod1.res"
+	],
+	"guard1/root/Body/ArmR": [
+		"res://assets/art/guard1_root_Body_ArmR_lod0.res",
+		"res://assets/art/guard1_root_Body_ArmR_lod1.res"
+	],
+	"guard1/root/Body/ArmR/Elbow": [
+		"res://assets/art/guard1_root_Body_ArmR_Elbow_lod0.res",
+		"res://assets/art/guard1_root_Body_ArmR_Elbow_lod1.res"
+	],
+	"guard1/root/Body/ArmR/Elbow/Weapon": [
+		"res://assets/art/guard1_root_Body_ArmR_Elbow_Weapon_lod0.res",
+		"res://assets/art/guard1_root_Body_ArmR_Elbow_Weapon_lod1.res"
+	],
+	"guard1/root/Body/Head": [
+		"res://assets/art/guard1_root_Body_Head_lod0.res",
+		"res://assets/art/guard1_root_Body_Head_lod1.res"
+	],
+	"guard1/root/Body/LegL": [
+		"res://assets/art/guard1_root_Body_LegL_lod0.res",
+		"res://assets/art/guard1_root_Body_LegL_lod1.res"
+	],
+	"guard1/root/Body/LegL/Shin": [
+		"res://assets/art/guard1_root_Body_LegL_Shin_lod0.res",
+		"res://assets/art/guard1_root_Body_LegL_Shin_lod1.res"
+	],
+	"guard1/root/Body/LegR": [
+		"res://assets/art/guard1_root_Body_LegR_lod0.res",
+		"res://assets/art/guard1_root_Body_LegR_lod1.res"
+	],
+	"guard1/root/Body/LegR/Shin": [
+		"res://assets/art/guard1_root_Body_LegR_Shin_lod0.res",
+		"res://assets/art/guard1_root_Body_LegR_Shin_lod1.res"
+	],
+	"heart0/root/Foundation": [
+		"res://assets/art/heart0_root_Foundation_lod0.res",
+		"res://assets/art/heart0_root_Foundation_lod1.res"
+	],
+	"heart0/root/Roof": [
+		"res://assets/art/heart0_root_Roof_lod0.res",
+		"res://assets/art/heart0_root_Roof_lod1.res"
+	],
+	"heart0/root/Walls": [
+		"res://assets/art/heart0_root_Walls_lod0.res",
+		"res://assets/art/heart0_root_Walls_lod1.res"
+	],
+	"heart1/root/Foundation": [
+		"res://assets/art/heart1_root_Foundation_lod0.res",
+		"res://assets/art/heart1_root_Foundation_lod1.res"
+	],
+	"heart1/root/Roof": [
+		"res://assets/art/heart1_root_Roof_lod0.res",
+		"res://assets/art/heart1_root_Roof_lod1.res"
+	],
+	"heart1/root/Walls": [
+		"res://assets/art/heart1_root_Walls_lod0.res",
+		"res://assets/art/heart1_root_Walls_lod1.res"
+	],
+	"house0/root/Foundation": [
+		"res://assets/art/house0_root_Foundation_lod0.res",
+		"res://assets/art/house0_root_Foundation_lod1.res"
+	],
+	"house0/root/Roof": [
+		"res://assets/art/house0_root_Roof_lod0.res",
+		"res://assets/art/house0_root_Roof_lod1.res"
+	],
+	"house0/root/Walls": [
+		"res://assets/art/house0_root_Walls_lod0.res",
+		"res://assets/art/house0_root_Walls_lod1.res"
+	],
+	"house1/root/Foundation": [
+		"res://assets/art/house1_root_Foundation_lod0.res",
+		"res://assets/art/house1_root_Foundation_lod1.res"
+	],
+	"house1/root/Roof": [
+		"res://assets/art/house1_root_Roof_lod0.res",
+		"res://assets/art/house1_root_Roof_lod1.res"
+	],
+	"house1/root/Walls": [
+		"res://assets/art/house1_root_Walls_lod0.res",
+		"res://assets/art/house1_root_Walls_lod1.res"
+	],
+	"lancer0/root/Body": [
+		"res://assets/art/lancer0_root_Body_lod0.res",
+		"res://assets/art/lancer0_root_Body_lod1.res"
+	],
+	"lancer0/root/Body/ArmL": [
+		"res://assets/art/lancer0_root_Body_ArmL_lod0.res",
+		"res://assets/art/lancer0_root_Body_ArmL_lod1.res"
+	],
+	"lancer0/root/Body/ArmL/Elbow": [
+		"res://assets/art/lancer0_root_Body_ArmL_Elbow_lod0.res",
+		"res://assets/art/lancer0_root_Body_ArmL_Elbow_lod1.res"
+	],
+	"lancer0/root/Body/ArmR": [
+		"res://assets/art/lancer0_root_Body_ArmR_lod0.res",
+		"res://assets/art/lancer0_root_Body_ArmR_lod1.res"
+	],
+	"lancer0/root/Body/ArmR/Elbow": [
+		"res://assets/art/lancer0_root_Body_ArmR_Elbow_lod0.res",
+		"res://assets/art/lancer0_root_Body_ArmR_Elbow_lod1.res"
+	],
+	"lancer0/root/Body/ArmR/Elbow/Weapon": [
+		"res://assets/art/lancer0_root_Body_ArmR_Elbow_Weapon_lod0.res",
+		"res://assets/art/lancer0_root_Body_ArmR_Elbow_Weapon_lod1.res"
+	],
+	"lancer0/root/Body/Head": [
+		"res://assets/art/lancer0_root_Body_Head_lod0.res",
+		"res://assets/art/lancer0_root_Body_Head_lod1.res"
+	],
+	"lancer0/root/Body/LegL": [
+		"res://assets/art/lancer0_root_Body_LegL_lod0.res",
+		"res://assets/art/lancer0_root_Body_LegL_lod1.res"
+	],
+	"lancer0/root/Body/LegL/Shin": [
+		"res://assets/art/lancer0_root_Body_LegL_Shin_lod0.res",
+		"res://assets/art/lancer0_root_Body_LegL_Shin_lod1.res"
+	],
+	"lancer0/root/Body/LegR": [
+		"res://assets/art/lancer0_root_Body_LegR_lod0.res",
+		"res://assets/art/lancer0_root_Body_LegR_lod1.res"
+	],
+	"lancer0/root/Body/LegR/Shin": [
+		"res://assets/art/lancer0_root_Body_LegR_Shin_lod0.res",
+		"res://assets/art/lancer0_root_Body_LegR_Shin_lod1.res"
+	],
+	"lancer1/root/Body": [
+		"res://assets/art/lancer1_root_Body_lod0.res",
+		"res://assets/art/lancer1_root_Body_lod1.res"
+	],
+	"lancer1/root/Body/ArmL": [
+		"res://assets/art/lancer1_root_Body_ArmL_lod0.res",
+		"res://assets/art/lancer1_root_Body_ArmL_lod1.res"
+	],
+	"lancer1/root/Body/ArmL/Elbow": [
+		"res://assets/art/lancer1_root_Body_ArmL_Elbow_lod0.res",
+		"res://assets/art/lancer1_root_Body_ArmL_Elbow_lod1.res"
+	],
+	"lancer1/root/Body/ArmR": [
+		"res://assets/art/lancer1_root_Body_ArmR_lod0.res",
+		"res://assets/art/lancer1_root_Body_ArmR_lod1.res"
+	],
+	"lancer1/root/Body/ArmR/Elbow": [
+		"res://assets/art/lancer1_root_Body_ArmR_Elbow_lod0.res",
+		"res://assets/art/lancer1_root_Body_ArmR_Elbow_lod1.res"
+	],
+	"lancer1/root/Body/ArmR/Elbow/Weapon": [
+		"res://assets/art/lancer1_root_Body_ArmR_Elbow_Weapon_lod0.res",
+		"res://assets/art/lancer1_root_Body_ArmR_Elbow_Weapon_lod1.res"
+	],
+	"lancer1/root/Body/Head": [
+		"res://assets/art/lancer1_root_Body_Head_lod0.res",
+		"res://assets/art/lancer1_root_Body_Head_lod1.res"
+	],
+	"lancer1/root/Body/LegL": [
+		"res://assets/art/lancer1_root_Body_LegL_lod0.res",
+		"res://assets/art/lancer1_root_Body_LegL_lod1.res"
+	],
+	"lancer1/root/Body/LegL/Shin": [
+		"res://assets/art/lancer1_root_Body_LegL_Shin_lod0.res",
+		"res://assets/art/lancer1_root_Body_LegL_Shin_lod1.res"
+	],
+	"lancer1/root/Body/LegR": [
+		"res://assets/art/lancer1_root_Body_LegR_lod0.res",
+		"res://assets/art/lancer1_root_Body_LegR_lod1.res"
+	],
+	"lancer1/root/Body/LegR/Shin": [
+		"res://assets/art/lancer1_root_Body_LegR_Shin_lod0.res",
+		"res://assets/art/lancer1_root_Body_LegR_Shin_lod1.res"
+	],
+	"ranger0/root/Body": [
+		"res://assets/art/ranger0_root_Body_lod0.res",
+		"res://assets/art/ranger0_root_Body_lod1.res"
+	],
+	"ranger0/root/Body/ArmL": [
+		"res://assets/art/ranger0_root_Body_ArmL_lod0.res",
+		"res://assets/art/ranger0_root_Body_ArmL_lod1.res"
+	],
+	"ranger0/root/Body/ArmL/Elbow": [
+		"res://assets/art/ranger0_root_Body_ArmL_Elbow_lod0.res",
+		"res://assets/art/ranger0_root_Body_ArmL_Elbow_lod1.res"
+	],
+	"ranger0/root/Body/ArmL/Elbow/NockedArrow": [
+		"res://assets/art/ranger0_root_Body_ArmL_Elbow_NockedArrow_lod0.res",
+		"res://assets/art/ranger0_root_Body_ArmL_Elbow_NockedArrow_lod1.res"
+	],
+	"ranger0/root/Body/ArmR": [
+		"res://assets/art/ranger0_root_Body_ArmR_lod0.res",
+		"res://assets/art/ranger0_root_Body_ArmR_lod1.res"
+	],
+	"ranger0/root/Body/ArmR/Elbow": [
+		"res://assets/art/ranger0_root_Body_ArmR_Elbow_lod0.res",
+		"res://assets/art/ranger0_root_Body_ArmR_Elbow_lod1.res"
+	],
+	"ranger0/root/Body/Head": [
+		"res://assets/art/ranger0_root_Body_Head_lod0.res",
+		"res://assets/art/ranger0_root_Body_Head_lod1.res"
+	],
+	"ranger0/root/Body/LegL": [
+		"res://assets/art/ranger0_root_Body_LegL_lod0.res",
+		"res://assets/art/ranger0_root_Body_LegL_lod1.res"
+	],
+	"ranger0/root/Body/LegL/Shin": [
+		"res://assets/art/ranger0_root_Body_LegL_Shin_lod0.res",
+		"res://assets/art/ranger0_root_Body_LegL_Shin_lod1.res"
+	],
+	"ranger0/root/Body/LegR": [
+		"res://assets/art/ranger0_root_Body_LegR_lod0.res",
+		"res://assets/art/ranger0_root_Body_LegR_lod1.res"
+	],
+	"ranger0/root/Body/LegR/Shin": [
+		"res://assets/art/ranger0_root_Body_LegR_Shin_lod0.res",
+		"res://assets/art/ranger0_root_Body_LegR_Shin_lod1.res"
+	],
+	"ranger1/root/Body": [
+		"res://assets/art/ranger1_root_Body_lod0.res",
+		"res://assets/art/ranger1_root_Body_lod1.res"
+	],
+	"ranger1/root/Body/ArmL": [
+		"res://assets/art/ranger1_root_Body_ArmL_lod0.res",
+		"res://assets/art/ranger1_root_Body_ArmL_lod1.res"
+	],
+	"ranger1/root/Body/ArmL/Elbow": [
+		"res://assets/art/ranger1_root_Body_ArmL_Elbow_lod0.res",
+		"res://assets/art/ranger1_root_Body_ArmL_Elbow_lod1.res"
+	],
+	"ranger1/root/Body/ArmL/Elbow/NockedArrow": [
+		"res://assets/art/ranger1_root_Body_ArmL_Elbow_NockedArrow_lod0.res",
+		"res://assets/art/ranger1_root_Body_ArmL_Elbow_NockedArrow_lod1.res"
+	],
+	"ranger1/root/Body/ArmR": [
+		"res://assets/art/ranger1_root_Body_ArmR_lod0.res",
+		"res://assets/art/ranger1_root_Body_ArmR_lod1.res"
+	],
+	"ranger1/root/Body/ArmR/Elbow": [
+		"res://assets/art/ranger1_root_Body_ArmR_Elbow_lod0.res",
+		"res://assets/art/ranger1_root_Body_ArmR_Elbow_lod1.res"
+	],
+	"ranger1/root/Body/Head": [
+		"res://assets/art/ranger1_root_Body_Head_lod0.res",
+		"res://assets/art/ranger1_root_Body_Head_lod1.res"
+	],
+	"ranger1/root/Body/LegL": [
+		"res://assets/art/ranger1_root_Body_LegL_lod0.res",
+		"res://assets/art/ranger1_root_Body_LegL_lod1.res"
+	],
+	"ranger1/root/Body/LegL/Shin": [
+		"res://assets/art/ranger1_root_Body_LegL_Shin_lod0.res",
+		"res://assets/art/ranger1_root_Body_LegL_Shin_lod1.res"
+	],
+	"ranger1/root/Body/LegR": [
+		"res://assets/art/ranger1_root_Body_LegR_lod0.res",
+		"res://assets/art/ranger1_root_Body_LegR_lod1.res"
+	],
+	"ranger1/root/Body/LegR/Shin": [
+		"res://assets/art/ranger1_root_Body_LegR_Shin_lod0.res",
+		"res://assets/art/ranger1_root_Body_LegR_Shin_lod1.res"
+	],
+	"rider0/root/Body": [
+		"res://assets/art/rider0_root_Body_lod0.res",
+		"res://assets/art/rider0_root_Body_lod1.res"
+	],
+	"rider0/root/Body/ArmL": [
+		"res://assets/art/rider0_root_Body_ArmL_lod0.res",
+		"res://assets/art/rider0_root_Body_ArmL_lod1.res"
+	],
+	"rider0/root/Body/ArmL/Elbow": [
+		"res://assets/art/rider0_root_Body_ArmL_Elbow_lod0.res",
+		"res://assets/art/rider0_root_Body_ArmL_Elbow_lod1.res"
+	],
+	"rider0/root/Body/ArmR": [
+		"res://assets/art/rider0_root_Body_ArmR_lod0.res",
+		"res://assets/art/rider0_root_Body_ArmR_lod1.res"
+	],
+	"rider0/root/Body/ArmR/Elbow": [
+		"res://assets/art/rider0_root_Body_ArmR_Elbow_lod0.res",
+		"res://assets/art/rider0_root_Body_ArmR_Elbow_lod1.res"
+	],
+	"rider0/root/Body/ArmR/Elbow/Weapon": [
+		"res://assets/art/rider0_root_Body_ArmR_Elbow_Weapon_lod0.res",
+		"res://assets/art/rider0_root_Body_ArmR_Elbow_Weapon_lod1.res"
+	],
+	"rider0/root/Body/Head": [
+		"res://assets/art/rider0_root_Body_Head_lod0.res",
+		"res://assets/art/rider0_root_Body_Head_lod1.res"
+	],
+	"rider0/root/Body/LegL": [
+		"res://assets/art/rider0_root_Body_LegL_lod0.res",
+		"res://assets/art/rider0_root_Body_LegL_lod1.res"
+	],
+	"rider0/root/Body/LegL/Shin": [
+		"res://assets/art/rider0_root_Body_LegL_Shin_lod0.res",
+		"res://assets/art/rider0_root_Body_LegL_Shin_lod1.res"
+	],
+	"rider0/root/Body/LegR": [
+		"res://assets/art/rider0_root_Body_LegR_lod0.res",
+		"res://assets/art/rider0_root_Body_LegR_lod1.res"
+	],
+	"rider0/root/Body/LegR/Shin": [
+		"res://assets/art/rider0_root_Body_LegR_Shin_lod0.res",
+		"res://assets/art/rider0_root_Body_LegR_Shin_lod1.res"
+	],
+	"rider0/root/Mount": [
+		"res://assets/art/rider0_root_Mount_lod0.res",
+		"res://assets/art/rider0_root_Mount_lod1.res"
+	],
+	"rider0/root/Mount/Leg0": [
+		"res://assets/art/rider0_root_Mount_Leg0_lod0.res",
+		"res://assets/art/rider0_root_Mount_Leg0_lod1.res"
+	],
+	"rider0/root/Mount/Leg0/Knee": [
+		"res://assets/art/rider0_root_Mount_Leg0_Knee_lod0.res",
+		"res://assets/art/rider0_root_Mount_Leg0_Knee_lod1.res"
+	],
+	"rider0/root/Mount/Leg1": [
+		"res://assets/art/rider0_root_Mount_Leg1_lod0.res",
+		"res://assets/art/rider0_root_Mount_Leg1_lod1.res"
+	],
+	"rider0/root/Mount/Leg1/Knee": [
+		"res://assets/art/rider0_root_Mount_Leg1_Knee_lod0.res",
+		"res://assets/art/rider0_root_Mount_Leg1_Knee_lod1.res"
+	],
+	"rider0/root/Mount/Leg2": [
+		"res://assets/art/rider0_root_Mount_Leg2_lod0.res",
+		"res://assets/art/rider0_root_Mount_Leg2_lod1.res"
+	],
+	"rider0/root/Mount/Leg2/Knee": [
+		"res://assets/art/rider0_root_Mount_Leg2_Knee_lod0.res",
+		"res://assets/art/rider0_root_Mount_Leg2_Knee_lod1.res"
+	],
+	"rider0/root/Mount/Leg3": [
+		"res://assets/art/rider0_root_Mount_Leg3_lod0.res",
+		"res://assets/art/rider0_root_Mount_Leg3_lod1.res"
+	],
+	"rider0/root/Mount/Leg3/Knee": [
+		"res://assets/art/rider0_root_Mount_Leg3_Knee_lod0.res",
+		"res://assets/art/rider0_root_Mount_Leg3_Knee_lod1.res"
+	],
+	"rider1/root/Body": [
+		"res://assets/art/rider1_root_Body_lod0.res",
+		"res://assets/art/rider1_root_Body_lod1.res"
+	],
+	"rider1/root/Body/ArmL": [
+		"res://assets/art/rider1_root_Body_ArmL_lod0.res",
+		"res://assets/art/rider1_root_Body_ArmL_lod1.res"
+	],
+	"rider1/root/Body/ArmL/Elbow": [
+		"res://assets/art/rider1_root_Body_ArmL_Elbow_lod0.res",
+		"res://assets/art/rider1_root_Body_ArmL_Elbow_lod1.res"
+	],
+	"rider1/root/Body/ArmR": [
+		"res://assets/art/rider1_root_Body_ArmR_lod0.res",
+		"res://assets/art/rider1_root_Body_ArmR_lod1.res"
+	],
+	"rider1/root/Body/ArmR/Elbow": [
+		"res://assets/art/rider1_root_Body_ArmR_Elbow_lod0.res",
+		"res://assets/art/rider1_root_Body_ArmR_Elbow_lod1.res"
+	],
+	"rider1/root/Body/ArmR/Elbow/Weapon": [
+		"res://assets/art/rider1_root_Body_ArmR_Elbow_Weapon_lod0.res",
+		"res://assets/art/rider1_root_Body_ArmR_Elbow_Weapon_lod1.res"
+	],
+	"rider1/root/Body/Head": [
+		"res://assets/art/rider1_root_Body_Head_lod0.res",
+		"res://assets/art/rider1_root_Body_Head_lod1.res"
+	],
+	"rider1/root/Body/LegL": [
+		"res://assets/art/rider1_root_Body_LegL_lod0.res",
+		"res://assets/art/rider1_root_Body_LegL_lod1.res"
+	],
+	"rider1/root/Body/LegL/Shin": [
+		"res://assets/art/rider1_root_Body_LegL_Shin_lod0.res",
+		"res://assets/art/rider1_root_Body_LegL_Shin_lod1.res"
+	],
+	"rider1/root/Body/LegR": [
+		"res://assets/art/rider1_root_Body_LegR_lod0.res",
+		"res://assets/art/rider1_root_Body_LegR_lod1.res"
+	],
+	"rider1/root/Body/LegR/Shin": [
+		"res://assets/art/rider1_root_Body_LegR_Shin_lod0.res",
+		"res://assets/art/rider1_root_Body_LegR_Shin_lod1.res"
+	],
+	"rider1/root/Mount": [
+		"res://assets/art/rider1_root_Mount_lod0.res",
+		"res://assets/art/rider1_root_Mount_lod1.res"
+	],
+	"rider1/root/Mount/Leg0": [
+		"res://assets/art/rider1_root_Mount_Leg0_lod0.res",
+		"res://assets/art/rider1_root_Mount_Leg0_lod1.res"
+	],
+	"rider1/root/Mount/Leg0/Knee": [
+		"res://assets/art/rider1_root_Mount_Leg0_Knee_lod0.res",
+		"res://assets/art/rider1_root_Mount_Leg0_Knee_lod1.res"
+	],
+	"rider1/root/Mount/Leg1": [
+		"res://assets/art/rider1_root_Mount_Leg1_lod0.res",
+		"res://assets/art/rider1_root_Mount_Leg1_lod1.res"
+	],
+	"rider1/root/Mount/Leg1/Knee": [
+		"res://assets/art/rider1_root_Mount_Leg1_Knee_lod0.res",
+		"res://assets/art/rider1_root_Mount_Leg1_Knee_lod1.res"
+	],
+	"rider1/root/Mount/Leg2": [
+		"res://assets/art/rider1_root_Mount_Leg2_lod0.res",
+		"res://assets/art/rider1_root_Mount_Leg2_lod1.res"
+	],
+	"rider1/root/Mount/Leg2/Knee": [
+		"res://assets/art/rider1_root_Mount_Leg2_Knee_lod0.res",
+		"res://assets/art/rider1_root_Mount_Leg2_Knee_lod1.res"
+	],
+	"rider1/root/Mount/Leg3": [
+		"res://assets/art/rider1_root_Mount_Leg3_lod0.res",
+		"res://assets/art/rider1_root_Mount_Leg3_lod1.res"
+	],
+	"rider1/root/Mount/Leg3/Knee": [
+		"res://assets/art/rider1_root_Mount_Leg3_Knee_lod0.res",
+		"res://assets/art/rider1_root_Mount_Leg3_Knee_lod1.res"
+	],
+	"tower0/root/Foundation": [
+		"res://assets/art/tower0_root_Foundation_lod0.res",
+		"res://assets/art/tower0_root_Foundation_lod1.res"
+	],
+	"tower0/root/Roof": [
+		"res://assets/art/tower0_root_Roof_lod0.res",
+		"res://assets/art/tower0_root_Roof_lod1.res"
+	],
+	"tower0/root/Walls": [
+		"res://assets/art/tower0_root_Walls_lod0.res",
+		"res://assets/art/tower0_root_Walls_lod1.res"
+	],
+	"tower1/root/Foundation": [
+		"res://assets/art/tower1_root_Foundation_lod0.res",
+		"res://assets/art/tower1_root_Foundation_lod1.res"
+	],
+	"tower1/root/Roof": [
+		"res://assets/art/tower1_root_Roof_lod0.res",
+		"res://assets/art/tower1_root_Roof_lod1.res"
+	],
+	"tower1/root/Walls": [
+		"res://assets/art/tower1_root_Walls_lod0.res",
+		"res://assets/art/tower1_root_Walls_lod1.res"
+	],
+	"worker0/root/Body": [
+		"res://assets/art/worker0_root_Body_lod0.res",
+		"res://assets/art/worker0_root_Body_lod1.res"
+	],
+	"worker0/root/Body/ArmL": [
+		"res://assets/art/worker0_root_Body_ArmL_lod0.res",
+		"res://assets/art/worker0_root_Body_ArmL_lod1.res"
+	],
+	"worker0/root/Body/ArmL/Elbow": [
+		"res://assets/art/worker0_root_Body_ArmL_Elbow_lod0.res",
+		"res://assets/art/worker0_root_Body_ArmL_Elbow_lod1.res"
+	],
+	"worker0/root/Body/ArmR": [
+		"res://assets/art/worker0_root_Body_ArmR_lod0.res",
+		"res://assets/art/worker0_root_Body_ArmR_lod1.res"
+	],
+	"worker0/root/Body/ArmR/Elbow": [
+		"res://assets/art/worker0_root_Body_ArmR_Elbow_lod0.res",
+		"res://assets/art/worker0_root_Body_ArmR_Elbow_lod1.res"
+	],
+	"worker0/root/Body/Cargo": [
+		"res://assets/art/worker0_root_Body_Cargo_lod0.res",
+		"res://assets/art/worker0_root_Body_Cargo_lod1.res"
+	],
+	"worker0/root/Body/Head": [
+		"res://assets/art/worker0_root_Body_Head_lod0.res",
+		"res://assets/art/worker0_root_Body_Head_lod1.res"
+	],
+	"worker0/root/Body/LegL": [
+		"res://assets/art/worker0_root_Body_LegL_lod0.res",
+		"res://assets/art/worker0_root_Body_LegL_lod1.res"
+	],
+	"worker0/root/Body/LegL/Shin": [
+		"res://assets/art/worker0_root_Body_LegL_Shin_lod0.res",
+		"res://assets/art/worker0_root_Body_LegL_Shin_lod1.res"
+	],
+	"worker0/root/Body/LegR": [
+		"res://assets/art/worker0_root_Body_LegR_lod0.res",
+		"res://assets/art/worker0_root_Body_LegR_lod1.res"
+	],
+	"worker0/root/Body/LegR/Shin": [
+		"res://assets/art/worker0_root_Body_LegR_Shin_lod0.res",
+		"res://assets/art/worker0_root_Body_LegR_Shin_lod1.res"
+	],
+	"worker1/root/Body": [
+		"res://assets/art/worker1_root_Body_lod0.res",
+		"res://assets/art/worker1_root_Body_lod1.res"
+	],
+	"worker1/root/Body/ArmL": [
+		"res://assets/art/worker1_root_Body_ArmL_lod0.res",
+		"res://assets/art/worker1_root_Body_ArmL_lod1.res"
+	],
+	"worker1/root/Body/ArmL/Elbow": [
+		"res://assets/art/worker1_root_Body_ArmL_Elbow_lod0.res",
+		"res://assets/art/worker1_root_Body_ArmL_Elbow_lod1.res"
+	],
+	"worker1/root/Body/ArmR": [
+		"res://assets/art/worker1_root_Body_ArmR_lod0.res",
+		"res://assets/art/worker1_root_Body_ArmR_lod1.res"
+	],
+	"worker1/root/Body/ArmR/Elbow": [
+		"res://assets/art/worker1_root_Body_ArmR_Elbow_lod0.res",
+		"res://assets/art/worker1_root_Body_ArmR_Elbow_lod1.res"
+	],
+	"worker1/root/Body/Cargo": [
+		"res://assets/art/worker1_root_Body_Cargo_lod0.res",
+		"res://assets/art/worker1_root_Body_Cargo_lod1.res"
+	],
+	"worker1/root/Body/Head": [
+		"res://assets/art/worker1_root_Body_Head_lod0.res",
+		"res://assets/art/worker1_root_Body_Head_lod1.res"
+	],
+	"worker1/root/Body/LegL": [
+		"res://assets/art/worker1_root_Body_LegL_lod0.res",
+		"res://assets/art/worker1_root_Body_LegL_lod1.res"
+	],
+	"worker1/root/Body/LegL/Shin": [
+		"res://assets/art/worker1_root_Body_LegL_Shin_lod0.res",
+		"res://assets/art/worker1_root_Body_LegL_Shin_lod1.res"
+	],
+	"worker1/root/Body/LegR": [
+		"res://assets/art/worker1_root_Body_LegR_lod0.res",
+		"res://assets/art/worker1_root_Body_LegR_lod1.res"
+	],
+	"worker1/root/Body/LegR/Shin": [
+		"res://assets/art/worker1_root_Body_LegR_Shin_lod0.res",
+		"res://assets/art/worker1_root_Body_LegR_Shin_lod1.res"
+	]
+}

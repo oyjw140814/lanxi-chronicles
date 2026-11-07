@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.db
+*.sqlite*
+*.log
+.godot/
+unpackage/
+builds/
+output/
